@@ -1,0 +1,106 @@
+{
+  "personal_info": {
+      "name": "El Khamlichi Badreddine",
+      "languages": ["Français", "Arabe", "Espagnol", "Anglais"],
+      "location": "Saint-Maurice-de-Beynost, près de Lyon, France",
+      "summary": "Jeune diplômé en ingénierie et data science passionné par le machine learning, l'exploration spatiale et les solutions innovantes. Doté d'une solide expérience en gestion de projets, analyse de données et développement de modèles prédictifs."
+  },
+  "studies": [
+      {
+          "degree": "Master en Management et Administration des Entreprises",
+          "institution": "IAE Lyon",
+          "year": "2024-2025",
+          "description": "Comptabilité & Analyse de coûts | Environnement économique et juridique | Gestion des ressources humaines | Stratégie d'entreprise, Marketing stratégique"
+      },
+      {
+          "degree": "Master 2 Maths en Action",
+          "institution": "Université Claude Bernard Lyon 1",
+          "year": "2023-2024",
+          "description": "Majeure : Mathématiques, Environnement et Climat. Modélisation stochastique | Apprentissage statistique | Machine Learning | Réseauxécologiques | Mécanique des fluides | Modélisation des risques climatiques"
+      },
+      {
+          "degree": "Diplôme d'Ingénieur en Mathématiques Appliquées et Modélisation",
+          "institution": "Polytech Lyon",
+          "year": "2019-2024",
+          "description": "Statistiques | Machine Learning | Big Data | Séries temporelles | Modélisation | Informatique scientifique | CHP | Méthode d'analyse numérique | Management"
+      }
+  ],
+  "projects": [
+      {
+          "name": "Analyse prédictive des retards aériens",
+          "description": "Projet complet d'analyse prédictive et d'optimisation utilisant des technologies phares en machine learning.",
+          "year": 2025
+      },
+      {
+          "name": "Hopper RLHF",
+          "description": "Création de prompts IA, évaluation de réponses et réécritures pour améliorer la performance des modèles.",
+          "year": 2025
+      },
+      {
+          "name": "Benchmark RNA-seq",
+          "description": "Comparaison et optimisation de différents autoencodeurs sur des données RNA-seq pour des applications biologiques.",
+          "year": 2024
+      },
+      {
+          "name": "Tableau de bord Power BI",
+          "description": "Mise en place d'un tableau de bord pour le suivi des KPI des départements industriels chez Industube.",
+          "year": 2023
+      },
+      {
+          "name": "E-commerce WooCommerce",
+          "description": "Développement d'un site e-commerce sur une plateforme gratuite (InfinityFree) avec WordPress et WooCommerce.",
+          "year": 2025
+      },
+      {
+          "name": "Portfolio interactif",
+          "description": "Création d'un site portfolio avec un chatbot personnalisé et des technologies modernes.",
+          "year": 2025
+      }
+  ],
+  "experiences": [
+      {
+          "role": "Stage Machine Learning - Data Science",
+          "company": "Bioaster",
+          "year": "2024",
+          "description": "Réalisation d'un benchmark de modèles sur des données biologiques et optimisation d'autoencodeurs avec des techniques avancées de ML."
+      },
+      {
+          "role": "Stage Data Science et Analyse",
+          "company": "Industube",
+          "year": "2022-2023",
+          "description": "Automatisation et structuration des bases de données, développement d'outils d'analyse avancés avec Power BI, Excel et VBA."
+      },
+      {
+          "role": "Professeur particulier",
+          "company": "Freelance",
+          "year": "Depuis 2021",
+          "description": "Accompagnement d'élèves et étudiants en mathématiques de tout niveau, de la primaire à l'université."
+      },
+      {
+          "role": "Contrôleur qualité",
+          "company": "Toray Films Europe",
+          "year": "2021",
+          "description": "Contrôle et analyse qualité sur des produits industriels en suivant des protocoles stricts."
+      }
+  ],
+  "skills": {
+      "technical": [
+          "Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)",
+          "R",
+          "SQL",
+          "Power BI",
+          "Excel (VBA)",
+          "Git/GitHub",
+          "HTML/CSS",
+          "WooCommerce"
+      ],
+      "languages": ["Français", "Arabe", "Espagnol", "Anglais"],
+      "soft_skills": ["Gestion de projet", "Travail en équipe", "Communication", "Adaptabilité", "Esprit analytique"]
+  },
+  "interests": [
+      "Exploration spatiale",
+      "Intelligence artificielle",
+      "Sport (Course à pied, Musculation, Trail, Cyclisme)",
+      "Technologies innovantes"
+  ]
+}

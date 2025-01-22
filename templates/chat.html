@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <!-- Lien vers le fichier CSS dans le dossier static/css -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/chat.css') }}">
+</head>
+<body>
+    <div id="chat-container">
+        <div id="chat-box">
+            <div id="messages"></div>
+        </div>
+        <form id="chat-form">
+            <input type="text" id="user-input" placeholder="Posez une question..." autocomplete="off">
+            <button type="submit">Envoyer</button>
+        </form>
+    </div>
+    <!-- Lien vers le fichier JavaScript dans le dossier static/js -->
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>
+
+
